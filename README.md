@@ -1,2 +1,1 @@
-# OpenCV_works
-# OpenCV_works
+# Machine_learning_workshop
